@@ -24,7 +24,10 @@ I really care about the apps architecture and the performance of the application
 - 💬 Ask me about anything and let's be friends.
 
 📊 This week i spent my time on:
-<figure><embed src="https://wakatime.com/share/@rivaldo_tjio/3708f1a9-1950-4cb3-aceb-4290dee97490.svg"></embed></figure>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 - 🔭 I’m currently working on MonKwh Mobile Projects
 
 <!--
