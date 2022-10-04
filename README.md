@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-Hi, I'm Rivaldo Hadi Winata, a passionate Android Developer from Indonesia. 
+Hi, I'm **Rivaldo Hadi Winata**, a passionate Android Developer from Indonesia. 
 My passion as android developer lies with dreaming up ideas and making them come true reliable performance. 
 I really care about the apps architecture and the performance of the applications that I make with the aim of creating the best user experience in terms of performance.
 
@@ -26,6 +26,7 @@ I really care about the apps architecture and the performance of the application
 📊 This week i spent my time on:
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 - 🔭 I’m currently working on MonKwh Mobile Projects
