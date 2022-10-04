@@ -25,9 +25,10 @@ I really care about the apps architecture and the performance of the application
 
 📊 This week i spent my time on:
 
-<!--START_SECTION:waka-->
 
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
 
 - 🔭 I’m currently working on MonKwh Mobile Projects
 
