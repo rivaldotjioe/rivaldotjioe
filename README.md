@@ -29,12 +29,12 @@ I really care about the apps architecture and the performance of the application
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           10 hrs 24 mins  ████████████████████░░░░░   80.36 %
-PHP              1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-Java             37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-Groovy           19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
-XML              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Gradle           7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Kotlin           12 hrs 34 mins  ████████████████████░░░░░   80.24 %
+PHP              1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+Java             47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+Groovy           30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+XML              23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+Gradle           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
