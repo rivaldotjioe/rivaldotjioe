@@ -28,7 +28,7 @@ I really care about the apps architecture and the performance of the application
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Kotlin                 25 hrs 7 mins   ████████████████▒░░░░░░░░   65.08 %
 JavaScript             10 hrs 43 mins  ███████░░░░░░░░░░░░░░░░░░   27.78 %
 Groovy                 1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
