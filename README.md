@@ -29,11 +29,7 @@ I really care about the apps architecture and the performance of the application
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin       16 mins         ███████████████████▓░░░░░   78.64 %
-Java         4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.42 %
-Groovy       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Gradle       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
