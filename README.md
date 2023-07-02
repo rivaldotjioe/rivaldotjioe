@@ -29,7 +29,9 @@ I really care about the apps architecture and the performance of the application
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Kotlin       24 mins         ██████████████████▓░░░░░░   74.80 %
+JavaScript   8 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.91 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
