@@ -1,15 +1,6 @@
 ### Hi there👋
-<a href="https://www.instagram.com/rivaldohadi/">
-  <img align="left" alt="Rivaldo's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.com/users/Rivaldo_Tjio#7595">
-  <img align="left" alt="Rivaldo's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/rivaldo_hadi">
-  <img align="left" alt="Rivaldo Hadi Winata | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/rivaldohadiwinata/">
-  <img align="left" alt="Rivaldo's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Rivaldo's LinkedIN" width="22px" src="[https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 
 <br/>
