@@ -20,7 +20,6 @@ My passion as android developer lies with dreaming up ideas and making them come
 I really care about the apps architecture and the performance of the applications that I make with the aim of creating the best user experience in terms of performance.
 
 - 📫 How to reach me: [rivaldohadiwinata@gmail.com](mailto:rivaldohadiwinata@gmail.com)
-- 💼 Any Freelance Work ? reach me out 👆 :)
 - 💬 Ask me about anything and let's be friends.
 
 📊 This week i spent my time on:
