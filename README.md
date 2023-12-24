@@ -21,9 +21,9 @@ I really care about the apps architecture and the performance of the application
 ```txt
 Dart        13 hrs 28 mins  █████████████████████████   99.96 %
 YAML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-Kotlin      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-TOML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 Markdown    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+.env file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Gradle      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
