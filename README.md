@@ -19,10 +19,10 @@ I really care about the apps architecture and the performance of the application
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             9 hrs 12 mins   ███████████████████████▓░   94.76 %
-Kotlin           25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-YAML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Dart             9 hrs 5 mins    ████████████████████████▒   97.61 %
+GitIgnore file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+YAML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Kotlin           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
