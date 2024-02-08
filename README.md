@@ -19,11 +19,11 @@ I really care about the apps architecture and the performance of the application
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              5 hrs 24 mins   ████████████████▒░░░░░░░░   65.50 %
-YAML              1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
-Kotlin            49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-Java Properties   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-.env file         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
+Dart              5 hrs 24 mins   ███████████████▓░░░░░░░░░   63.22 %
+YAML              1 hr 19 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.52 %
+Kotlin            1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+Java Properties   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+.env file         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 ```
 
 <!--END_SECTION:waka-->
