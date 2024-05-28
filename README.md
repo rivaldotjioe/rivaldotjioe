@@ -19,11 +19,11 @@ I really care about the apps architecture and the performance of the application
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 6 hrs 27 mins   ████████████████████████▓   99.28 %
-XML                    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Kotlin                 9 hrs 44 mins   █████████████████████████   99.37 %
+XML                    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Properties             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Java                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 Text                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Shell Script           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Properties             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
