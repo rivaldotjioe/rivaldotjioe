@@ -19,11 +19,11 @@ I really care about the apps architecture and the performance of the application
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             5 hrs 21 mins   ██████████████████████▒░░   89.35 %
-textmate         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-Groovy           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
-XML              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-Gradle           2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Dart           5 hrs 7 mins    ████████████████████████░   96.13 %
+textmate       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+XML            3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
+Groovy         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+Gradle         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 
 <!--END_SECTION:waka-->
