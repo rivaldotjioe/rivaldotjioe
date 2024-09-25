@@ -19,9 +19,10 @@ I really care about the apps architecture and the performance of the application
 <!--START_SECTION:waka-->
 
 ```txt
-Dart                          1 hr            ██████████████████▓░░░░░░   74.49 %
-Application Resource Bundle   20 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.83 %
-Markdown                      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Dart                          1 hr            ██████████████████▓░░░░░░   74.43 %
+Application Resource Bundle   20 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.81 %
+Markdown                      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+Kotlin                        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
