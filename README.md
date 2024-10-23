@@ -19,11 +19,11 @@ I really care about the apps architecture and the performance of the application
 <!--START_SECTION:waka-->
 
 ```txt
-Dart     5 hrs 36 mins   ████████████████████████▒   97.92 %
-Text     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
-Gradle   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Dart              5 hrs 8 mins    ████████████████████▒░░░░   81.27 %
+Text              17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Gradle            15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+ObjectiveC        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 %
+Properties        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
 ```
 
 <!--END_SECTION:waka-->
