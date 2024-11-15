@@ -6,8 +6,8 @@
 <br/>
 <br/>
 
-Hi, I'm **Rivaldo Hadi Winata**, a passionate Android Developer from Indonesia. 
-My passion as android developer lies with dreaming up ideas and making them come true reliable performance. 
+Hi, I'm **Rivaldo Hadi Winata**, a passionate Software Engineer from Indonesia. 
+My passion as software engineer lies with dreaming up ideas and making them come true reliable performance. 
 I really care about the apps architecture and the performance of the applications that I make with the aim of creating the best user experience in terms of performance.
 
 - 📫 How to reach me: [rivaldohadiwinata@gmail.com](mailto:rivaldohadiwinata@gmail.com)
@@ -29,7 +29,7 @@ Dart              22 mins         ▒░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 
-<!--- 🔭 I’m currently working on Management Order Depot Acun -->
+<!--- 🔭 I’m currently working on Parnas FMS Project -->
 
 <!--
 **rivaldotjioe/rivaldotjioe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
