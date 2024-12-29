@@ -20,7 +20,7 @@ I really care about the apps architecture and the performance of the application
 
 ```txt
 Dart       46 mins         █████████████████████▒░░░   85.61 %
-YAML       7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+YAML       7 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
 Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
