@@ -19,11 +19,11 @@ I really care about the apps architecture and the performance of the application
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        14 hrs 15 mins  ████████████████████████░   96.07 %
-Bash              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Java Properties   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-JavaScript        5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
-JSON              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   11 hrs 12 mins  ████████████████████████░   96.28 %
+Bash         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+CSS          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
