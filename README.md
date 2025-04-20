@@ -22,7 +22,7 @@ I really care about the apps architecture and the performance of the application
 TypeScript        6 hrs 48 mins   ██████████▒░░░░░░░░░░░░░░   40.71 %
 HTML              3 hrs 52 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.18 %
 SCSS              3 hrs 6 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
-Kotlin            1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+Kotlin            1 hr 50 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
 Java Properties   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
 ```
 
