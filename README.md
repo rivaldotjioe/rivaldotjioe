@@ -21,7 +21,7 @@ I really care about the apps architecture and the performance of the application
 ```txt
 TypeScript        11 hrs 30 mins  █████████████████████▒░░░   85.50 %
 HTML              1 hr 33 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-SCSS              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
+SCSS              11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 Bash              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 Java Properties   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
